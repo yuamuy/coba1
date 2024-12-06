@@ -41,9 +41,9 @@
     <div class="container">
         <h1>Biodata</h1>
         <div class="biodata">
-            <p><span>Nama:</span> [Mutia Ayu Azizah]</p>
-            <p><span>Kelas:</span> [XII TKJ 1]</p>
-	    <p><span>:SMK NEGERI 22 JAKARTA</p>
+            <p><span>Nama:</span> Mutia Ayu Azizah</p>
+            <p><span>Kelas:</span> XII TKJ 1</p>
+	    <p><span>SMK NEGERI 22 JAKARTA</p>
             <p>ASS WEB STATIC DOKCKER SUDAH SELESAI</p>
         </div>
     </div>
